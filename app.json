@@ -1,0 +1,12 @@
+{
+  "name": "mapdemo",
+  "displayName": "mapdemo",
+  "expo": {
+    "name": "mapdemo",
+    "slug": "mapdemo",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
