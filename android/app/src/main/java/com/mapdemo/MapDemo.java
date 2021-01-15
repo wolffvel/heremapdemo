@@ -30,6 +30,7 @@ public class MapDemo extends AppCompatActivity {
                 Log.d(TAG, "HERE Rendering Engine attached.");
             }
         });
+        loadMapScene();
     }
 
     private void loadMapScene() {
